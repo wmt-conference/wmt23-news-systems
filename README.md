@@ -12,3 +12,11 @@ Tools for extracting the raw text from the XML can be found [here](https://githu
 The human evaluations are in the `humaneval` directory.
 
 
+# Translator IDs
+
+Since references have been prepared by a set of translators and it could be useful when investigating the Hebrew refA possible postedited reference from ONLINE-A.
+
+For English-Hebrew refA:
+- all the mastodon and user review texts were translated by one person (id1)
+- all the news and speech 0,1,2,3,4,6 - by the second person (id2)
+- all the rest speech - by the third one (id3)
