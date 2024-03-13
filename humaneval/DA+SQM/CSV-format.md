@@ -20,9 +20,3 @@ The 11 fields are as follows:
 9. `IsDocument?`: always `False` (document-level meta scores have been filtered out)
 10. `StartTime`: annotation started at this date/time
 11. `EndTime`: annotation ended at this date/time
-
-## Statistics
-The final WMT23 human evaluation scores data drop contains 175617 segment-level scores.
-
-## Questions?
-Please reach out to `{chrife,rogrundk}@microsoft.com` for any questions you may have.
