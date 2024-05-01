@@ -1,0 +1,1 @@
+Translate this into 1. {target_lang}:\n\n{source_seg}\n\n1. {translation}
